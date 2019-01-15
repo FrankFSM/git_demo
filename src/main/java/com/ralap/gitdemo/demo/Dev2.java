@@ -7,4 +7,5 @@ package com.ralap.gitdemo.demo;
  */
 public class Dev2 {
 
+    String Dev2;
 }
